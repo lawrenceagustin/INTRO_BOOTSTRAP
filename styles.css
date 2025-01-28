@@ -1,0 +1,142 @@
+.navbar-brand, .nav-link{
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF !important;
+}
+.container-music{
+    padding-left: 20px;
+}
+
+.body-index{
+    background-image: url('../img/agustin.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.text-custom{
+    color: #CCCCCC;
+}
+p.pMain{
+    padding-top: 20px;
+    padding-right: 950px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 450;
+    color: #cccccca0;
+}
+.font-about{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+}
+
+.font-name{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+}
+.card{
+    user-select: none;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.fb, .insta, .git{
+    margin-right: 10px;
+}
+
+.remag, .gitar{
+    filter: grayscale(50%) opacity(50%);
+}
+
+p.p1{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.full-height {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.card-hobbies{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:transparent;
+    overflow: hidden;
+    margin: 20px auto;
+}
+
+.card-foods {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:transparent;
+    overflow: hidden;
+    margin: 20px auto;
+}
+
+.card-travel {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:transparent !important;
+    overflow: hidden;
+    margin: 20px auto;
+}
+
+.custom-hobby{
+    margin-top: -200px;
+
+}
+
+.custom-food{
+    margin-top: -700px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.411);
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    max-width: 90%;
+    margin: auto;
+}
+
+.font-hobby, .font-food, .font-travel {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: #ebebeb;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
+  
