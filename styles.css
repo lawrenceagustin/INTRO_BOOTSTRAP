@@ -8,7 +8,7 @@
 }
 
 .body-index{
-    background-image: url('../img/agustin.png');
+    background-image: url('img/agustin.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
